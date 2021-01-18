@@ -3,4 +3,4 @@
 #### This repo will contain several python scripts which analyzes and visualizes different types of travel data. 
 
 Currently contains:
-- NYC Uber Rides using Streamlit, Pandas and numpy
+- NYC Uber Rides Dashboard using Streamlit, Pandas and numpy
